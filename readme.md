@@ -1,4 +1,4 @@
 # Personal Page with React
 
 
-[!tumbail](/img/capPage.png)
+![tumbail](./img/capPage.png)
